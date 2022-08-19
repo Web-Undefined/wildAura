@@ -3473,7 +3473,7 @@ body.is-menu-visible #menu .inner {
             rgba(46, 49, 65, 0.6),
             rgba(46, 49, 65, 0.6)
         ),
-        url("../../images/bannerBlack.png");
+        url("../../images/newBanner.png");
     background-size: auto, cover;
     background-position: center, center;
     margin-bottom: -6.5em;
@@ -3604,7 +3604,7 @@ body.is-menu-visible #menu .inner {
                 rgba(46, 49, 65, 0.7),
                 rgba(46, 49, 65, 0.7)
             ),
-            url("../../images/bannerBlack.png");
+            url("../../images/newBanner.png");
         background-size: auto, cover;
         background-position: center, center;
         margin-bottom: -6.5em;
